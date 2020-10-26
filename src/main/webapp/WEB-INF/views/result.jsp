@@ -8,7 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+	<!-- this is comment -->
 	<h2>${result}</h2>
 	<c:forEach var="dane" items="${result}">
     Year: ${result.key}  - ZapotrzebowanieRopy: ${result.value}
